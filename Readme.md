@@ -31,15 +31,18 @@ What data you have used, how you have used it, and what story does it now tell a
 
 -IPCC AR4 SEA-LEVEL PROJECTIONS
 Description of Use: The Sea-level rise projection from 1990 - 2100 is used to calculate the water rising in and around sydney wet lands.
+url:
 
 -Temperature Data
 Description of Use: The temperature data set for Parramatta will be used to feed into the visualisation we have for the climate change. We want to use the information and also combine with a data set similar to https://www.climatechangeinaustralia.gov.au/en/climate-projections/explore-data/data-download/gridded-data-download/
 
 -Planning/EPI_Protection_Layers, Flood
 Description of Use: Coastal wetlands are most at risk due to climate change. Understanding the impact of climate change and more specifically of sea-level rise on coastal wetlands must take into account factors that affect the ecological balance of wetland ecosystems
+url: https://mapprod1.environment.nsw.gov.au/arcgis/rest/services/Planning/EPI_Protection_Layers/MapServer/1
 
 -Planning/EPI_Protection_Layers, NSW Coastal Wetlands
 Description of Use: Coastal wetlands are most at risk due to climate change. Understanding the impact of climate change and more specifically of sea-level rise on coastal wetlands must take into account factors that affect the ecological balance of wetland ecosystems
+url: https://mapprod1.environment.nsw.gov.au/arcgis/rest/services/Planning/EPI_Protection_Layers/MapServer/3
 
 -Open Street Maps
 Description of Use: Provides base maps on which we provide our solutions. Allows our solution to be used globally
@@ -48,6 +51,26 @@ Description of Use: Provides base maps on which we provide our solutions. Allows
 url: 
  https://mapprod.environment.nsw.gov.au/arcgis/rest/services/NarCLIM/ClimateRegion/MapServer/1
 description:
+
+- DPI - Department of Primary Industries Water
+* Ground Water Sharing plan
+* Real time monitoring sites - Ground water
+* Real time monitoring sites - Major storage
+* Real time monitoring sites - Surface water
+* Regulated Rivers
+* Surface water sharing plan 
+
+Major Catchment; PORT JACKSON / GEORGES RIVER
+Name of the Plan; Water Sharing Plan for the Greater Metropolitan Region Unregulated River Water Sources 2011
+
+Water Source; Northern Sydney Rivers Water Source
+Start Date; 1/07/2011
+End Date; 28/06/2021
+
+- Local Environment Plan (LEP)
+* Heigh of Building
+url: https://mapprod1.environment.nsw.gov.au/arcgis/rest/services/Planning/EPI_Primary_Planning_Layers/MapServer/5
+
 
 
 ## How can we ?
