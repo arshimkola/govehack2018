@@ -1,6 +1,7 @@
-## GovHack 2018
+# Team: Climactic
+### GovHack 2018, NSW
 
-# Challenges
+## Challenges
 -Bounty: Decision Support
 Region: Australia
 
@@ -17,7 +18,7 @@ Region: New South Wales
 Region: New South Wales
 
 
-# New Challenges
+## New Challenges
 - More than apps and maps: help government decide with data
 How can we combine data to help government make their big and small decisions? Government makes decisions every day—with long term consequences such as the location of a school, or on a small scale such as the rostering of helpdesk staff.
 
@@ -25,7 +26,7 @@ How can we combine data to help government make their big and small decisions? G
 How can we use data and technology to better the health of the Australian population, and what could be the economic impacts?
 
 
-# Data Story
+## Data Story
 What data you have used, how you have used it, and what story does it now tell as part of your project
 
 -IPCC AR4 SEA-LEVEL PROJECTIONS
@@ -49,7 +50,7 @@ url:
 description:
 
 
-# How can we ?
+## How can we ?
 - How can open data be presented on search.data.gov.au to make it easier and friendlier to use? 
 - Does this mean making it more similar to using standard search engines, like Google, or something else entirely?
 - How can we combine data to help government make their big and small decisions? 
@@ -58,7 +59,7 @@ description:
 - What sort of impact can be made on homelessness, mental health outcomes, or the environment, using open data?
 
 
-# How can the data be improved?
+## How can the data be improved?
  Existing services provide a great potential for government agencies, citizen scientists and weekened hackers to consume and mashup data from various sources. However we made a few key observations as we consumed this data and have suggestions to make this even more accessible
 
  Observations & Suggestions for improvement
